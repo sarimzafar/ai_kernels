@@ -1,6 +1,7 @@
 # ai_kernels
 
-[Kaggle User Profile](https://www.kaggle.com/shzafar).
+Kaggle User Profile [/kaggle/shzafar](https://www.kaggle.com/shzafar)
+[Resume](https://sarimzafar.github.io/resume.pdf)
 
 ## Current Projects
 
