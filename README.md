@@ -6,6 +6,6 @@
 ## Current Projects
 
 - Digital Pathology Classification - Ranked 12th out of 87 participants
-- Traffic Sign Detection using Tensor Flow/Keras (done using CNN)
+- Traffic Sign Detection using Tensor Flow/Keras (done using NN in TF)
 
 
